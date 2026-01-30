@@ -26,7 +26,7 @@ Off-Grid exists to challenge that. We build primitives that can support the next
 
 ## Our Approach
 
-- **Privacy as core infrastructure** — We use tools like DID (Decentralized Identifiers) to achieve what thinkers like Alex Karp from Palantir have argued for: using data and analytics for security and verification without harvesting or centralizing data. Our systems organize and interpret—they don’t act as a surveillance database. Private execution with verifiable outcomes; we protect users from information leakage while preserving cryptographic accountability and staying within legal and ethical guardrails.
+- **Privacy as core infrastructure** — We use tools like DID (Decentralized Identifiers) to achieve what thinkers like Alex Karp from Palantir have argued for: using data and analytics for security and verification without harvesting or centralizing data. Our systems organize and interpret—they don't act as a surveillance database. Private execution with verifiable outcomes; we protect users from information leakage while preserving cryptographic accountability and staying within legal and ethical guardrails.
 
 - **In-memory execution and verifiable state commitment** — Active state lives in fast environments (e.g. RAM); verified snapshots are committed back to the chain. Applications run at real-time speeds without sacrificing trust guarantees.
 
